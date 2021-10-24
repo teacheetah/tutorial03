@@ -1,0 +1,4 @@
+aiohttp
+gunicorn
+jinja2
+aiohttp_jinja2

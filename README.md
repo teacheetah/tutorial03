@@ -1,2 +1,7 @@
-# tutorial03
-Put your application servers behind a nginx web server 
+# Reverse Proxying using Nginx
+
+* Managing your service logs
+* Put your application servers behind a nginx reverse proxy
+
+
+
